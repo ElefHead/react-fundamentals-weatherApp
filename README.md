@@ -1,6 +1,6 @@
 # React Fundamentals : WeatherApp  
   
-Application following the [react tutorial](https://tylermcginnis.com/) by [Tyler McGinnis](https://github.com/tylermcginnis). I made this application after watching his ES7 tutorial and hence, the project is in accordance with the ES7 standards.
+Application following the [react tutorial](https://tylermcginnis.com/) by [Tyler McGinnis](https://github.com/tylermcginnis). I made this application after watching his ES6 tutorial and hence, the project is in accordance with the ES6 standards.
 
 Special thanks to [Tyler McGinnis](https://twitter.com/tylermcginnis) for his content. His videos are brilliant and helped me a lot. If anyone stumbles upon this repo, please do go give him a shout out!
   
